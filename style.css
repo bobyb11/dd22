@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+header  {
+    background-color: #4671D5;
+border-radius: 5px;
+color: aliceblue
+
+}
+header img {
+    border-radius: 10px;
+}
+h1 {
+color: rgb(36, 0, 238);
+}
+footer {
+    background-color: #4671D5;
+ border-radius: 10px;
+ color:aliceblue
+}
+header a{
+    color:aqua
+}
+nav {
+ margin: 20px;
+ padding: 10px;
+ border: 3px solid #bbbbbb;
+ border-radius: 20px;
+ text-align: center;
+ 
+ 
+}
+nav a {
+    color: #0026ff9f; 
+    border: 2px #bbbbbb solid;
+    padding: 4px;
+    border-radius: 10px;
+    
+
+    
+  
+}
+.dff {
+    background-color: #4671D5;
+    border-radius: 10px;
+    font-family: ;
+    color: #ffffff;
+}
+
+#discount{
+color:#4671D5;
+text-decoration: underline;
+}
+#delivery{
+color:#523fff;
+text-decoration: underline;
+}
+#about_us {
+color:#2079ff;
+text-decoration: underline;
+}
+#wholesale {
+color:#2079ff;
+text-decoration: underline;
+}
+
+
+
